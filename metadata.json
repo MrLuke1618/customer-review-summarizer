@@ -1,0 +1,5 @@
+{
+  "name": "Customer Review Summarizer",
+  "description": "An AI-powered tool that ingests customer reviews and provides a concise summary of pros, cons, and common themes to support customer service teams.",
+  "requestFramePermissions": []
+}
